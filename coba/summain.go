@@ -1,4 +1,4 @@
-package sum
+package coba
 
 func Penjumlahan(n int) int {
 	var sum int
