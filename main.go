@@ -10,4 +10,5 @@ func main() {
 	coba.Perulangan(10)
 	fmt.Println(coba.Penjumlahan(20))
 	fmt.Println("finish")
+	fmt.Println("finish 2")
 }
